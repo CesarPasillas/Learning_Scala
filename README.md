@@ -6,7 +6,7 @@ This is a Scala project that provides an introduction to the Scala programming l
 
 This project is created for **Programming Squirrel** site, that will be growing and growing, maybe you want to check out the page.
 
-If you want to learn Scala you can check out the [Scala Website](https://www.scala-lang.org/).
+If you want to learn more about Scala you can check out the [Scala Website](https://www.scala-lang.org/).
 
 ## Getting Started
 
